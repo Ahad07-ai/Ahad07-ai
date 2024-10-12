@@ -9,6 +9,7 @@
   - First place in the district-level Ramanujan Maths Olympiad
   - Winner of the Project Expo conducted by the IT department
   - Captain of my school’s football team
-- 📫 Reach me at abdulahad.official2004@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-ahad).
+- 📫 Reach me at abdulahad.official2004@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/abdul-ahad-075942279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 - 😄 Pronouns: He/Him
 - 🤝 Feel free to check out my projects and let's collaborate!
+
