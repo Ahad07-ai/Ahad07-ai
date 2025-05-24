@@ -5,7 +5,7 @@
 - 🚀 I'm currently building a complete food ordering web app and have also worked on Handwritten Captcha Detection using CNN.
 - 💡 I'm always looking to collaborate on innovative projects in AI, web development, and sustainability.
 - 🏆 Achievements: 
-  - Solved 100+ problems on LeetCode
+  - Solved 200+ problems on LeetCode
   - First place in the district-level Ramanujan Maths Olympiad
   - Winner of the Project Expo conducted by the IT department
   - Captain of my school’s football team
