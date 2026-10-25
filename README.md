@@ -16,6 +16,8 @@ I'm an Information Technology graduate passionate about building reliable and sc
 
 **Cloud & DevOps:** Microsoft Azure, Docker, Git, GitHub, CI/CD, Linux
 
+**AI & GenAI:** Machine Learning Basics, LLMs, RAG, Prompt Engineering
+
 **Engineering:** OOP, Data Structures & Algorithms, Unit Testing, Debugging, Agile, SDLC
 
 ## 🚀 Featured Projects
